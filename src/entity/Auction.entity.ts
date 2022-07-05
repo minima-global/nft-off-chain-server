@@ -22,4 +22,7 @@ export class Auction {
 
     @Column()
     nftSellerId: string
+
+    @Column({ type: 'json', nullable: true })
+    detailsJson?: object[]
 }
