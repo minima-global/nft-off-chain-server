@@ -25,4 +25,10 @@ export class Auction {
 
     @Column({ type: 'json', nullable: true })
     detailsJson?: object[]
+
+    @Column("varchar", { length: 400 })
+    sellerAddress: string
+
+    @Column("varchar", { nullable: true, length: 400 })
+    buyerAddress?: string
 }

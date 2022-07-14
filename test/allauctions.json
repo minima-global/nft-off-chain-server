@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "nftName": "Ant",
+        "nftDescription": "",
+        "nftUrl": "68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39342f466972655f616e74735f30312e6a70672f32323070782d466972655f616e74735f30312e6a7067",
+        "nftTokenId": "0xC641940F169C165B935315B7262FC0584C8BA9BB50F8B7378C4913D539BEE80C",
+        "nftPrice": 20,
+        "nftSellerId": "some-user-id",
+        "detailsJson": null,
+        "sellerAddress": "",
+        "BuyerAddress": null
+    },
+    {
+        "id": 2,
+        "nftName": "Ant",
+        "nftDescription": "",
+        "nftUrl": "68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39342f466972655f616e74735f30312e6a70672f32323070782d466972655f616e74735f30312e6a7067",
+        "nftTokenId": "0xC641940F169C165B935315B7262FC0584C8BA9BB50F8B7378C4913D539BEE80C",
+        "nftPrice": 20,
+        "nftSellerId": "some-user-id",
+        "detailsJson": null,
+        "sellerAddress": "",
+        "BuyerAddress": null
+    },
+    {
+        "id": 3,
+        "nftName": "Ant",
+        "nftDescription": "",
+        "nftUrl": "68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39342f466972655f616e74735f30312e6a70672f32323070782d466972655f616e74735f30312e6a7067",
+        "nftTokenId": "0xC641940F169C165B935315B7262FC0584C8BA9BB50F8B7378C4913D539BEE80C",
+        "nftPrice": 20,
+        "nftSellerId": "some-user-id",
+        "detailsJson": null,
+        "sellerAddress": "",
+        "BuyerAddress": null
+    },
+    {
+        "id": 4,
+        "nftName": "Ant",
+        "nftDescription": "",
+        "nftUrl": "68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39342f466972655f616e74735f30312e6a70672f32323070782d466972655f616e74735f30312e6a7067",
+        "nftTokenId": "0xC641940F169C165B935315B7262FC0584C8BA9BB50F8B7378C4913D539BEE80C",
+        "nftPrice": 20,
+        "nftSellerId": "some-user-id",
+        "detailsJson": {
+            "nft": "true",
+            "url": "68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39342f466972655f616e74735f30312e6a70672f32323070782d466972655f616e74735f30312e6a7067",
+            "name": "Ant",
+            "description": ""
+        },
+        "sellerAddress": "",
+        "BuyerAddress": null
+    },
+    {
+        "id": 5,
+        "nftName": "Inner Space",
+        "nftDescription": "",
+        "nftUrl": "68747470733a2f2f7777772e64656e6f666765656b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30312f696e6e657273706163652d6d61696e2e6a70673f726573697a653d373638253243343332",
+        "nftTokenId": "0x27B96951A0063B49D68D3C640CAD018E951B612237634E899F77BD9490012476",
+        "nftPrice": 20,
+        "nftSellerId": "some-user-id",
+        "detailsJson": {
+            "nft": "true",
+            "url": "68747470733a2f2f7777772e64656e6f666765656b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30312f696e6e657273706163652d6d61696e2e6a70673f726573697a653d373638253243343332",
+            "name": "Inner Space",
+            "description": ""
+        },
+        "sellerAddress": "",
+        "BuyerAddress": null
+    },
+    {
+        "id": 6,
+        "nftName": "Tiger",
+        "nftDescription": "",
+        "nftUrl": "68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33662f57616c6b696e675f74696765725f66656d616c652e6a70672f32323070782d57616c6b696e675f74696765725f66656d616c652e6a7067",
+        "nftTokenId": "0xE058FCE1F2226BB193FAC0FD0AD6E81B91D012BD3DB714A0BB9AFF440F8B63F1",
+        "nftPrice": 20,
+        "nftSellerId": "some-user-id",
+        "detailsJson": {
+            "nft": "true",
+            "url": "68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33662f57616c6b696e675f74696765725f66656d616c652e6a70672f32323070782d57616c6b696e675f74696765725f66656d616c652e6a7067",
+            "name": "Tiger",
+            "description": ""
+        },
+        "sellerAddress": "",
+        "BuyerAddress": null
+    },
+    {
+        "id": 7,
+        "nftName": "Tiger",
+        "nftDescription": "",
+        "nftUrl": "68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33662f57616c6b696e675f74696765725f66656d616c652e6a70672f32323070782d57616c6b696e675f74696765725f66656d616c652e6a7067",
+        "nftTokenId": "0xE058FCE1F2226BB193FAC0FD0AD6E81B91D012BD3DB714A0BB9AFF440F8B63F1",
+        "nftPrice": 20,
+        "nftSellerId": "some-user-id",
+        "detailsJson": {
+            "nft": "true",
+            "url": "68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33662f57616c6b696e675f74696765725f66656d616c652e6a70672f32323070782d57616c6b696e675f74696765725f66656d616c652e6a7067",
+            "name": "Tiger",
+            "description": ""
+        },
+        "sellerAddress": "MxG18HGG6FJ038614Y8CW46US6G20810K0070CD00Z83282G60G138F23UUQN7T29A838HKNN1Q8N8R6ZQ7RGZB4FM3K7Y7W0530WU2TUAQVKHQ3TZUGD25KB94783SDWAF47PP08GA05BUM0G8CSSDCR9DTR0MUKB93PD7AJCE0EZSTSFH583EG8N68ZSW60WUAVN17C1R6NEMJHANA9VKWBTT8ACZJY49N7VZ802B29QFEDBWTNNN2T09AAZZCC10608006P5745G@192.168.1.132:9001",
+        "BuyerAddress": null
+    }
+]

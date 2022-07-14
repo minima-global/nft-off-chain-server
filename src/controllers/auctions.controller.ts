@@ -40,6 +40,11 @@ async function deleteById(req: Request, res: Response) {
     return res.send(results)
 }
 
+// buy
+// adds buyer information to auction row
+// sends seller info, buyer gets in touch
+
+
 export const auctionsController = {
     get,
     getById,
